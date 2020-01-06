@@ -1,4 +1,4 @@
-# ES6
+# 作用域与数组
 
 ## 作用域
 
@@ -103,7 +103,7 @@ b = 3                               // const不能先声明后初始化，let va
 ### ES5中的遍历
 
 - for 数组
-- forEach 数组
+- forEach 数组 可遍历对象
 - every 数组
 - for in 对象
 
