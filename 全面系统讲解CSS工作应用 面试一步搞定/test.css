@@ -1,8 +1,0 @@
-* {
-  padding: 0;
-  color: rgb(255, 0, 0);
-  background: -webkit-linear-gradient(left, red, green);
-  background: linear-gradient(to right, red, green);
-  background: linear-gradient(180deg, red, green);
-  background: linear-gradient(135deg, red 0, green 10%, yellow 50%, blue 100%);
-}
